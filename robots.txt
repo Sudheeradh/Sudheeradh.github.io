@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sudheeradh.github.io/sitemap.xml
+Sitemap: https://Sudheeradh.github.io/sitemap.xml
